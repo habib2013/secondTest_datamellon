@@ -5,6 +5,7 @@ return (
    <div>
       <p>This is the home Page</p>
       <Link to='/lineChart'>Line Chart</Link>
+      <Link to='/barChart'>Bar Chart</Link>
    </div>
 );
 }
